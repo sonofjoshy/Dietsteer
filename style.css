@@ -258,6 +258,7 @@ img {
   .about {
     flex-grow: 1;
     padding-bottom: 0;
+    margin-right: 0.5rem;
   }
   .site-links {
     flex-basis: 20%;
