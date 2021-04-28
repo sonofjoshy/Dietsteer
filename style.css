@@ -51,7 +51,7 @@ img {
 .nav-item {
   list-style: none;
   margin-right: 2rem;
-  font: bold clamp(0.5rem, 4vw, 0.6rem) / 1.5 "Roboto", Sans-Serif;
+  font: bold clamp(0.5rem, 4vw, 0.8rem) / 1.5 "Roboto", Sans-Serif;
 }
 
 .search {
