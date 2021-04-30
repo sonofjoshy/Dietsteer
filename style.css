@@ -131,3 +131,30 @@
 .related-topics {
   padding: 1rem 2rem;
 }
+/* CLS Fix */
+.hero-header {
+   min-height: 1000px;
+}
+.breadcrumbs {
+  min-height: 62px;
+}
+.hero-header h1 {
+  min-height: 250px;
+}
+.post-info {
+  min-height: 96px;
+}
+@media (min-width: 62em) {
+.hero-header {
+   min-height: 1000px;
+}
+.breadcrumbs {
+  min-height: 47px;
+}
+.hero-header h1 {
+  min-height: 64px;
+}
+.post-info {
+  min-height: 37px;
+}
+}
